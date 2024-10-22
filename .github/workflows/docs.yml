@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  FFMPEG_VERSION: ffmpeg-n7.0-latest-linux%ARCH%-lgpl-shared-7.0
+  FFMPEG_VERSION: ffmpeg-n7.1-latest-linux%ARCH%-lgpl-shared-7.1
 
 jobs:
   build:
